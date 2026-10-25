@@ -9,8 +9,9 @@ Input:
    p, principal amount
    t, time period in years
    r, annual rate of interest
-Output
+Output Genreated
    simple interest = p*t*r
 ```
 
 _© 2022 XYZ, Inc._
+Fixed a typo in the documentation.
